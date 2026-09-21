@@ -1,0 +1,25 @@
+EDUCATIONAL LICENSE - PERSONAL PORTFOLIO PROJECT
+
+Copyright © 2026 [Your Name]
+
+This project is released for educational purposes only.
+
+PERMITTED USE:
+- View and study the project content
+- Learn from the code and design
+- Use as reference for your own learning
+- Modify for personal educational purposes only
+- Share the original unmodified repository with others for educational use
+
+RESTRICTIONS:
+- Cannot be used for commercial purposes
+- Cannot be sold or used to generate profit
+- Cannot claim the work as your own without attribution
+- Cannot remove or modify the copyright notice
+- Cannot use for business projects
+
+DISCLAIMER:
+This project is provided "AS IS" without any warranty. The author is not 
+responsible for any damage, loss, or issues arising from the use of this project.
+
+For more information or permission beyond educational use, contact: [sabinepascaline@gmail.com]
