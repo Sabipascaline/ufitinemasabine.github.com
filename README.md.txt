@@ -54,7 +54,10 @@ For commercial use or permissions beyond educational purposes, contact: [sainepa
 
 
 #Contributors
-Sabine UFITINEMA
+Muhirwa Christian 
+  GitHub username: MuhirwaChristian
+  Profile link:https://github.com/MuhirwaChristian/christianMuhirwa.git
+  Role: 
 
 ## Project link
 Project Link: https://github.com/Sabipascaline/ufitinemasabine.github.com.git
