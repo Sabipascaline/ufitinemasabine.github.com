@@ -50,14 +50,18 @@ Key Points:
 
 For the complete license terms and conditions, please see the (LICENSE.txt) file in this repository.
 
-For commercial use or permissions beyond educational purposes, contact: [sainepascaline@gmail.com]
+For commercial use or permissions beyond educational purposes, contact: [sabinepascaline@gmail.com]
 
 
 #Contributors
+
+Sabine Ufitinema 
+Role: Code manager 
+
 Muhirwa Christian 
   GitHub username: MuhirwaChristian
   Profile link:https://github.com/MuhirwaChristian/christianMuhirwa.git
-  Role: 
+  Role: Editor 
 
 ## Project link
 Project Link: https://github.com/Sabipascaline/ufitinemasabine.github.com.git
